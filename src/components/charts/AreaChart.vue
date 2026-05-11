@@ -7,6 +7,7 @@ defineProps<{
   datasets: DatasetOption[];
   title: string;
 }>();
+
 </script>
 
 <template>
